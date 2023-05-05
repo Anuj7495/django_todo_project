@@ -1,7 +1,7 @@
 version : "3.3"
 services :
   web :
-     build : .
+     image : anujsaini/todo-app:latest
      ports :
          - "8000:8000"
 
