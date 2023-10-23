@@ -3,5 +3,5 @@ services :
   web :
      image : anujsaini/todo-app:latest
      ports :
-         - "8000:8000"
+         - "8001:8001"
 
